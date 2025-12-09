@@ -1,0 +1,17 @@
+{
+    "name": "octave/qr-checker",
+    "autoload": {
+        "psr-4": {
+            "Octave\\QrChecker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "octavebahoun",
+            "email": "octavebahoun@gmail.com"
+        }
+    ],
+    "require": {
+         "php": ">=8.0"
+    }
+}
